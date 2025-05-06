@@ -1,16 +1,25 @@
-## Hi there 👋
+🛡️ **PcyBox**  
+*Secure tomorrow, today.*
 
-<!--
-**pcybox/pcybox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+👨‍💻 Cybersecurity engineer | Red & Blue team tooling | LLM-powered automation  
+🧠 Building the future of cyber tools with AI, code, and curiosity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🚀 **What I build**  
+- Offensive automation (attack paths, payloads, recon tools)  
+- Defensive assistance (IOC analysis, threat scoring, alert tuning)  
+- Generators: YARA, Sigma, reports, scenarios  
+- CLI-first, LLM-integrated, open-source
+
+---
+
+💡 **Core stack**  
+Python & Curiosity
+
+---
+
+🤝 Open to collaborations, research projects & OSS contributions  
+🌍 [github.com/pcybox](https://github.com/pcybox)  
