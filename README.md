@@ -19,8 +19,6 @@
   Scripts, bots, integrations for operational efficiency  
 - 🧠 **AI-enhanced platforms**  
   From scenario generation to threat intelligence  
-- 🔓 **Open-source & commercial solutions**  
-  Designed with a CLI-first mindset
 
 ## 💡 Core Tech Stack
 
